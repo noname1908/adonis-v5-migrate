@@ -1,6 +1,6 @@
 {
-  "name": "adonis-migrate",
-  "version": "0.0.0",
+  "name": "adonis-v5-migrate",
+  "version": "0.1.0",
   "description": "A tool for migrating Adonisjs application from v4 to v5",
   "license": "MIT",
   "contributors": [
